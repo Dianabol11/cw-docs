@@ -1,0 +1,25 @@
+---
+description: >-
+  Use these steps to add an alert banner for announcements or promotions on your
+  Cloudwaitress website.
+---
+
+# How to Create Alerts for Announcements and Promotions
+
+### Steps:
+
+1. Log in as Admin at admin.cloudwaitress.com.
+2.  From the list of accounts, find the account where you want to add the alert and click “Manage”.
+
+    ![](<../.gitbook/assets/unknown (14).png>)
+3.  From the left-side menu, select “Settings”.
+
+    ![](<../.gitbook/assets/unknown (13).png>)
+4. Click the “Websites” tab.
+5.  Look for the “Alert” section.
+
+    ![](<../.gitbook/assets/unknown (12).png>)
+6. Enter a brief description or message for your announcement or promotion (e.g., “Opening Special – 20% Off!”).
+7.  Click Save to apply the alert. And it will show up as an Alert or banner on the frontend.
+
+    ![](<../.gitbook/assets/unknown (11).png>)

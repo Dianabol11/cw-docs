@@ -7,23 +7,23 @@ Learn how to restrict access to certain menu items based on age. This feature en
 1. Log in to your account[ https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
 2. Go to **Settings** > **Systems** > **Age Verification**.
 
-<figure><img src="../.gitbook/assets/unknown (28).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (28) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Enable **Age Verification**.
 
-<figure><img src="../.gitbook/assets/unknown (29).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (29) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Enter the **Minimum Age** and the **Estimated Wait Time** (in hours) for approval.
 
-<figure><img src="../.gitbook/assets/unknown (30).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (30) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 (Optional) Enable Store Pop-up Notification to inform customers immediately when they load your online store that certain items are age-restricted. Click **Save**.
 
-<figure><img src="../.gitbook/assets/unknown (31).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (31) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Go to **Menus** to enable age-restricted access for specific menu.
 
-<figure><img src="../.gitbook/assets/unknown (32).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (32) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 6. Open the **menu** you want to restrict by clicking the **Edit** icon.
 

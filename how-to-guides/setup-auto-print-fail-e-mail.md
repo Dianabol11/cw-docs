@@ -12,19 +12,19 @@ description: >-
 1. Log in to your account[ https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
 2. Go to **Settings** > **System**
 
-<figure><img src="../.gitbook/assets/unknown (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Click **Receipt Printing**, then select the printer
 
-<figure><img src="../.gitbook/assets/unknown (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Under **General**, go to **Auto Print Fail - Email**
 
-<figure><img src="../.gitbook/assets/unknown (6).png" alt="" width="452"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (6) (1).png" alt="" width="452"><figcaption></figcaption></figure>
 
 5. Enter your e-mail, then save
 
-<figure><img src="../.gitbook/assets/unknown (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

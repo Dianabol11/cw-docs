@@ -18,4 +18,4 @@ description: >-
 
 3. Click **Edit Printer** to save.
 
-<figure><img src="../.gitbook/assets/unknown.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (32).png" alt="" width="375"><figcaption></figcaption></figure>
