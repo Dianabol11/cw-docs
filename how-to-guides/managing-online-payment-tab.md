@@ -42,23 +42,23 @@ To quickly find specific payments, you can use the **Filters** option:
 3. **Status**: Filter payments based on their payment status (e.g., Succeeded, Requires Payment Method etc.).
 4. **Refund Status**: Find payments that have been fully refunded or partially refunded.
 
-<figure><img src="../.gitbook/assets/unknown (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Payment Refund
 
 1. Click the **reverse icon** to open the refund form.
 
-<figure><img src="../.gitbook/assets/unknown (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Select the **reason for the refund** from the dropdown menu.
 
-<figure><img src="../.gitbook/assets/unknown (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter the **refund amount** and click Save.
 
 **Note:** The refund amount cannot exceed the total amount paid.
 
-<figure><img src="../.gitbook/assets/unknown (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -11,25 +11,25 @@ description: >-
 1. Log in as Admin at admin.cloudwaitress.com.
 2.  From the list of accounts, find the account where you want to add the discount and click “Manage".
 
-    ![](<../.gitbook/assets/unknown (15).png>)
+    ![](<../.gitbook/assets/unknown (15) (1).png>)
 3.  In the left-side menu, click “Settings”.
 
-    ![](<../.gitbook/assets/unknown (16).png>)
+    ![](<../.gitbook/assets/unknown (16) (1).png>)
 4.  Go to the “System” tab.
 
-    ![](<../.gitbook/assets/unknown (17).png>)
+    ![](<../.gitbook/assets/unknown (17) (1).png>)
 5.  Under Promo Codes, click “Create Discount”.
 
-    ![](<../.gitbook/assets/unknown (18).png>)
+    ![](<../.gitbook/assets/unknown (18) (1).png>)
 6.  In the General tab, fill in the required details (e.g., Promo Name, Code, Description, Active Status).
 
-    ![](<../.gitbook/assets/unknown (19).png>)
+    ![](<../.gitbook/assets/unknown (19) (1).png>)
 7.  Go to the Condition tab.
 
     **Select the Discount Type:** Percentage or Fixed Amount.    \
     **Note:** The Discount Value field will adjust based on the discount type you choose.
 
-    ![](<../.gitbook/assets/unknown (20).png>)
+    ![](<../.gitbook/assets/unknown (20) (1).png>)
 8. Under Apply To, choose how the discount will be applied:
    * **Specific Products** – Select which items are eligible.
      * You can also choose whether the discount applies to all selected items or only the highest-priced item.
@@ -48,7 +48,7 @@ description: >-
     * **Available Times** – Choose the time of day per week the promo should work.
     * **Automatically Apply Promotion** – If enabled, the promo will be auto-applied as soon as the order is created.
 
-    ![](<../.gitbook/assets/unknown (21).png>)
+    ![](<../.gitbook/assets/unknown (21) (1).png>)
 
-    ![](<../.gitbook/assets/unknown (23).png>)
+    ![](<../.gitbook/assets/unknown (23) (1).png>)
 10. After finalizing all settings, click Save.

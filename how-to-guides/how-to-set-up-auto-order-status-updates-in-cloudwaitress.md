@@ -14,14 +14,14 @@ description: >-
     ![](<../.gitbook/assets/unknown (27).png>)
 3.  In the left-side menu, click “Settings”.
 
-    ![](<../.gitbook/assets/unknown (26).png>)
+    ![](<../.gitbook/assets/unknown (26) (1).png>)
 4. Select the “**Services**” tab.
 5. Choose the services your store offers (**Pickups, Deliveries, Dine-ins**).
 6.  Scroll to **Wait Times & Auto Statuses**.
 
     **Note:** This section controls the automated status flow and shows the Estimated Wait Time for each service.
 
-    ![](<../.gitbook/assets/unknown (25).png>)
+    ![](<../.gitbook/assets/unknown (25) (1).png>)
 7.  Toggle Enable Automated Order Statuses to turn it on.
 
     * **Pickups**: Confirm → Ready → Complete
@@ -30,5 +30,5 @@ description: >-
       **Note:** Set the **Time Till (Status)** values in minutes for each stage.\
       Once all times are set, orders will automatically move through each status and the system will calculate the service’s Estimated Wait Time.
 
-    ![](<../.gitbook/assets/unknown (24).png>)
+    ![](<../.gitbook/assets/unknown (24) (1).png>)
 8. After configuring all wait times, click Save.

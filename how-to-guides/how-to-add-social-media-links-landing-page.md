@@ -11,12 +11,12 @@ description: >-
 1. Log in as Admin at admin.cloudwaitress.com.
 2.  From the top navigation tabs, click “Landing Page.”
 
-    ![](<../.gitbook/assets/unknown (10).png>)
+    ![](<../.gitbook/assets/unknown (10) (1).png>)
 3.  Under the Website Sections, select “Footer.”
 
     **Note:** Ensure that “Hide Section” is untoggled so the footer will be visible on the website’s frontend.
 
-    ![](<../.gitbook/assets/unknown (9).png>)
+    ![](<../.gitbook/assets/unknown (9) (1).png>)
 4.  Paste each social media link into its correct field.
 
     **Note:** Make sure each link is valid and complete
