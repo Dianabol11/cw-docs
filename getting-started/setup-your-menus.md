@@ -5,11 +5,7 @@ description: >-
   dashboard.
 ---
 
-# Setup Your Menus
 
-{% embed url="https://youtu.be/Nyyr2vwB1Io" %}
-Menu setup video tutorial
-{% endembed %}
 
 ## Setup Process
 
@@ -141,5 +137,7 @@ We highly recommend that you use the website [https://www.birme.net](https://www
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get any assistance.
+Please contact our support team at  
+[support@wizztakeaway.com](mailto:support@wizztakeaway.com)  
+or use the live chat feature for assistance.
 {% endhint %}
